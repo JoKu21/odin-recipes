@@ -8,3 +8,23 @@ a {
     color: blue;
 }
 
+.schrift-special {
+    text-align: center;
+    background-color: orange;
+    font-family: fantasy, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img, p, h3, ul, ol, .backlink, .centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    text-align: center ;
+}
+
+body {
+    background-color: rgb(194, 194, 194);
+}
